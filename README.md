@@ -21,6 +21,3 @@ Type|Item
 **Operating System** | [Microsoft Windows 11 Pro OEM - DVD 64-bit](https://de.pcpartpicker.com/product/yjbTwP/microsoft-windows-11-pro-oem-dvd-64-bit-fqc-10529)
 **Case Fan** | [NZXT F140P 99.68 CFM 140 mm Fan](https://de.pcpartpicker.com/product/VpPQzy/nzxt-f140p-9968-cfm-140-mm-fan-rf-p14sf-b1)
 **Case Fan** | [NZXT F140P 99.68 CFM 140 mm Fan](https://de.pcpartpicker.com/product/VpPQzy/nzxt-f140p-9968-cfm-140-mm-fan-rf-p14sf-b1) 
-**Keyboard** | [Razer Huntsman Mini RGB Wired Mini Keyboard](https://de.pcpartpicker.com/product/X77p99/razer-huntsman-mini-rgb-wired-mini-keyboard-rz03-03390200-r3m1) 
-**Mouse** | [Razer Basilisk X HyperSpeed Wireless Optical Mouse](https://de.pcpartpicker.com/product/yqPgXL/razer-basilisk-x-hyperspeed-wireless-optical-mouse-rz01-03150100-r3u1) 
-**Headphones** | [Razer BlackShark V2 Pro  Headset](https://de.pcpartpicker.com/product/t3K2FT/razer-blackshark-v2-pro-headset-rz04-03220100-r3u1) 
