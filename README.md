@@ -6,8 +6,8 @@
 
 - Discord Server : https://discord.gg/f87KwPmE5Q
 
-Type|Item|Price
-:----|:----|:----
+Type|Item
+:----|:----
 **CPU** | [Intel Core i9-12900K 3.2 GHz 16-Core Processor](https://de.pcpartpicker.com/product/gGH7YJ/intel-core-i9-12900k-32-ghz-8-core-processor-bx8071512900k)
 **CPU Cooler** | [NZXT Kraken 240 78.02 CFM Liquid CPU Cooler](https://de.pcpartpicker.com/product/LDqrxr/nzxt-kraken-240-7802-cfm-liquid-cpu-cooler-rl-kn240-b1)
 **Motherboard** | [MSI MAG B760 TOMAHAWK WIFI ATX LGA1700 Motherboard](https://de.pcpartpicker.com/product/CxLFf7/msi-mag-b760-tomahawk-wifi-atx-lga1700-motherboard-mag-b760-tomahawk-wifi)
