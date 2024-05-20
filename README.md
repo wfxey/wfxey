@@ -8,19 +8,18 @@
 
 Type|Item|Price
 :----|:----|:----
-**CPU** | [Intel Core i9-12900K 3.2 GHz 16-Core Processor](https://de.pcpartpicker.com/product/gGH7YJ/intel-core-i9-12900k-32-ghz-8-core-processor-bx8071512900k) | Purchased For €300.00 
-**CPU Cooler** | [NZXT Kraken 240 78.02 CFM Liquid CPU Cooler](https://de.pcpartpicker.com/product/LDqrxr/nzxt-kraken-240-7802-cfm-liquid-cpu-cooler-rl-kn240-b1) | Purchased For €100.00 
-**Motherboard** | [MSI MAG B760 TOMAHAWK WIFI ATX LGA1700 Motherboard](https://de.pcpartpicker.com/product/CxLFf7/msi-mag-b760-tomahawk-wifi-atx-lga1700-motherboard-mag-b760-tomahawk-wifi) | Purchased For €200.00 
-**Memory** | [Crucial Pro 32 GB (2 x 16 GB) DDR5-5600 CL46 Memory](https://de.pcpartpicker.com/product/3L9wrH/crucial-pro-32-gb-2-x-16-gb-ddr5-5600-cl46-memory-cp2k16g56c46u5) | Purchased For €87.00 
-**Storage** | [Verbatim Vi550 512 GB 2.5" Solid State Drive](https://de.pcpartpicker.com/product/PPtQzy/verbatim-vi550-512-gb-25-solid-state-drive-49352) | Purchased For €40.00 
-**Storage** | [Samsung 990 Pro 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive](https://de.pcpartpicker.com/product/34ytt6/samsung-990-pro-2-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-mz-v9p2t0bw) | Purchased For €185.00 
-**Video Card** | [Asus TUF GAMING OC Radeon RX 7700 XT 12 GB Video Card](https://de.pcpartpicker.com/product/W8P8TW/asus-tuf-gaming-oc-radeon-rx-7700-xt-12-gb-video-card-tuf-rx7700xt-o12g-gaming) | Purchased For €420.00 
-**Case** | [NZXT H5 Flow ATX Mid Tower Case](https://de.pcpartpicker.com/product/RY4Ycf/nzxt-h5-flow-atx-mid-tower-case-cc-h51fb-01) | Purchased For €100.00 
-**Power Supply** | [NZXT C750 (2022) 750 W 80+ Gold Certified Fully Modular ATX Power Supply](https://de.pcpartpicker.com/product/ZCQcCJ/nzxt-c750-2022-750-w-80-gold-certified-fully-modular-atx-power-supply-pa-7g1bb-us) | Purchased For €100.00 
-**Operating System** | [Microsoft Windows 11 Pro OEM - DVD 64-bit](https://de.pcpartpicker.com/product/yjbTwP/microsoft-windows-11-pro-oem-dvd-64-bit-fqc-10529) | Purchased For €20.00 
-**Case Fan** | [NZXT F140P 99.68 CFM 140 mm Fan](https://de.pcpartpicker.com/product/VpPQzy/nzxt-f140p-9968-cfm-140-mm-fan-rf-p14sf-b1) | Purchased For €25.00 
-**Case Fan** | [NZXT F140P 99.68 CFM 140 mm Fan](https://de.pcpartpicker.com/product/VpPQzy/nzxt-f140p-9968-cfm-140-mm-fan-rf-p14sf-b1) | Purchased For €25.00 
-**Keyboard** | [Razer Huntsman Mini RGB Wired Mini Keyboard](https://de.pcpartpicker.com/product/X77p99/razer-huntsman-mini-rgb-wired-mini-keyboard-rz03-03390200-r3m1) | Purchased For €89.00 
-**Mouse** | [Razer Basilisk X HyperSpeed Wireless Optical Mouse](https://de.pcpartpicker.com/product/yqPgXL/razer-basilisk-x-hyperspeed-wireless-optical-mouse-rz01-03150100-r3u1) | Purchased For €50.00 
-**Headphones** | [Razer BlackShark V2 Pro  Headset](https://de.pcpartpicker.com/product/t3K2FT/razer-blackshark-v2-pro-headset-rz04-03220100-r3u1) | Purchased For €110.00 
- | **Total** | **€1851.00**
+**CPU** | [Intel Core i9-12900K 3.2 GHz 16-Core Processor](https://de.pcpartpicker.com/product/gGH7YJ/intel-core-i9-12900k-32-ghz-8-core-processor-bx8071512900k)
+**CPU Cooler** | [NZXT Kraken 240 78.02 CFM Liquid CPU Cooler](https://de.pcpartpicker.com/product/LDqrxr/nzxt-kraken-240-7802-cfm-liquid-cpu-cooler-rl-kn240-b1)
+**Motherboard** | [MSI MAG B760 TOMAHAWK WIFI ATX LGA1700 Motherboard](https://de.pcpartpicker.com/product/CxLFf7/msi-mag-b760-tomahawk-wifi-atx-lga1700-motherboard-mag-b760-tomahawk-wifi)
+**Memory** | [Crucial Pro 32 GB (2 x 16 GB) DDR5-5600 CL46 Memory](https://de.pcpartpicker.com/product/3L9wrH/crucial-pro-32-gb-2-x-16-gb-ddr5-5600-cl46-memory-cp2k16g56c46u5)
+**Storage** | [Verbatim Vi550 512 GB 2.5" Solid State Drive](https://de.pcpartpicker.com/product/PPtQzy/verbatim-vi550-512-gb-25-solid-state-drive-49352)
+**Storage** | [Samsung 990 Pro 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive](https://de.pcpartpicker.com/product/34ytt6/samsung-990-pro-2-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-mz-v9p2t0bw)
+**Video Card** | [Asus TUF GAMING OC Radeon RX 7700 XT 12 GB Video Card](https://de.pcpartpicker.com/product/W8P8TW/asus-tuf-gaming-oc-radeon-rx-7700-xt-12-gb-video-card-tuf-rx7700xt-o12g-gaming)
+**Case** | [NZXT H5 Flow ATX Mid Tower Case](https://de.pcpartpicker.com/product/RY4Ycf/nzxt-h5-flow-atx-mid-tower-case-cc-h51fb-01)
+**Power Supply** | [NZXT C750 (2022) 750 W 80+ Gold Certified Fully Modular ATX Power Supply](https://de.pcpartpicker.com/product/ZCQcCJ/nzxt-c750-2022-750-w-80-gold-certified-fully-modular-atx-power-supply-pa-7g1bb-us)
+**Operating System** | [Microsoft Windows 11 Pro OEM - DVD 64-bit](https://de.pcpartpicker.com/product/yjbTwP/microsoft-windows-11-pro-oem-dvd-64-bit-fqc-10529)
+**Case Fan** | [NZXT F140P 99.68 CFM 140 mm Fan](https://de.pcpartpicker.com/product/VpPQzy/nzxt-f140p-9968-cfm-140-mm-fan-rf-p14sf-b1)
+**Case Fan** | [NZXT F140P 99.68 CFM 140 mm Fan](https://de.pcpartpicker.com/product/VpPQzy/nzxt-f140p-9968-cfm-140-mm-fan-rf-p14sf-b1) 
+**Keyboard** | [Razer Huntsman Mini RGB Wired Mini Keyboard](https://de.pcpartpicker.com/product/X77p99/razer-huntsman-mini-rgb-wired-mini-keyboard-rz03-03390200-r3m1) 
+**Mouse** | [Razer Basilisk X HyperSpeed Wireless Optical Mouse](https://de.pcpartpicker.com/product/yqPgXL/razer-basilisk-x-hyperspeed-wireless-optical-mouse-rz01-03150100-r3u1) 
+**Headphones** | [Razer BlackShark V2 Pro  Headset](https://de.pcpartpicker.com/product/t3K2FT/razer-blackshark-v2-pro-headset-rz04-03220100-r3u1) 
