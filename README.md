@@ -6,7 +6,8 @@
 
 - Discord Server : https://discord.gg/f87KwPmE5Q
 
-## PC
+## PC 
+*Important for tested software*
 Type|Item
 :----|:----
 **CPU** | [Intel Core i9-12900K 3.2 GHz 16-Core Processor](https://de.pcpartpicker.com/product/gGH7YJ/intel-core-i9-12900k-32-ghz-8-core-processor-bx8071512900k)
