@@ -1,5 +1,5 @@
 # @wfxey
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen) ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=brightgreen) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen) ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=brightgreen) ![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=brightgreen) 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wfxey&theme=dark)](https://github.com/wfxey)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wfxey&layout=compact&theme=dark)](https://github.com/wfxey)
