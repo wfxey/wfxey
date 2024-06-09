@@ -1,7 +1,7 @@
 ## Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ## @wfxey
-[![Python](https://img.shields.io/badge/Code-langname-informational?style=flat&logo=python&logoColor=white&color=brightgreen)]
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wfxey&theme=dark)](https://github.com/wfxey)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wfxey&layout=compact&theme=dark)](https://github.com/wfxey)
