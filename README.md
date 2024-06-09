@@ -3,8 +3,8 @@
 ## @wfxey
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wfxey&theme=dark)](https://github.com/wfxey)
+[![wfxey github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wfxey&theme=tokyo-night&height=300&area=true)](https://github.com/wfxey)
 [![wfxey GitHub stats](https://github-readme-stats.vercel.app/api?username=wfxey&show_icons=true&layout=compact&theme=dark)](https://github.com/wfxey)
-[![wfxey github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wfxey&theme=dark&height=300&area=true)](https://github.com/wfxey)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wfxey&layout=compact&theme=dark)](https://github.com/wfxey)
 
 - Currently working on : *secret*
