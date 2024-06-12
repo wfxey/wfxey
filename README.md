@@ -16,4 +16,4 @@
 
 ## Stuff
 
-Discord Server : https://discord.gg/f87KwPmE5Q
+![Discord Banner](https://discord.com/api/guilds/1230908371490570314/widget.png?style=banner2)
