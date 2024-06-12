@@ -1,6 +1,6 @@
 # Profile
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen) ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=brightgreen) ![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=brightgreen) ![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VSCode&logoColor=white&color=blue) ![Win11](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=red) <a target="_blank" href="https://discord.gg/zkspfFwqDg"><img src="https://dcbadge.limes.pink/api/server/zkspfFwqDg" alt="" /></a>
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen) ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=brightgreen) ![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=brightgreen) ![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VSCode&logoColor=white&color=blue) ![Win11](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=red) ![flat](https://dcbadge.limes.pink/api/shield/852977967776399400?bot=true&style=flat)   
 
 ## Stats 
 
