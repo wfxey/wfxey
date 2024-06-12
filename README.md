@@ -10,10 +10,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wfxey&theme=dark)](https://github.com/wfxey)
 [![wfxey GitHub stats](https://github-readme-stats.vercel.app/api?username=wfxey&show_icons=true&layout=compact&theme=dark)](https://github.com/wfxey)
 
-## Trophies
-
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=wfxey&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/wfxey)
-
-## Stuff
+## Discord
 
 ![Discord Banner](https://discord.com/api/guilds/1230908371490570314/widget.png?style=banner2)
