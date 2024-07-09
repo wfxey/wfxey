@@ -32,6 +32,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wfxey)](https://github.com/wfxey)
 [![wfxey GitHub stats](https://github-readme-stats.vercel.app/api?username=wfxey)](https://github.com/wfxey)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wfxey)](https://github.com/wfxey)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wfxey)](https://github.com/wfxey)
 
 </details>
 
