@@ -24,8 +24,8 @@
 
 </div>
 
-<details open>
-    <summary>Offener Bereich</summary>
+<details closed>
+    <summary>Stats</summary>
 
 ## Stats 
     
