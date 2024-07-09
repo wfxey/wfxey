@@ -30,7 +30,7 @@
 ## Stats
 
 [![wfxey github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wfxey&theme=tokyo-night&height=300&area=true)](https://github.com/wfxey)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wfxey)](https://github.com/wfxey)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wfxey&theme=transparent)](https://github.com/wfxey)
 [![wfxey GitHub stats](https://github-readme-stats.vercel.app/api?username=wfxey&&show_icons=true&theme=transparent)](https://github.com/wfxey)
 
 </details>
