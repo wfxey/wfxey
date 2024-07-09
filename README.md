@@ -1,6 +1,6 @@
 <div align="center">
 
-# @wfxey
+## @wfxey
 
 
 [![Link to README.md](https://img.shields.io/badge/Link%20to%20README.md-8CA1AF?logo=readthedocs&logoColor=fff)](https://github.com/wfxey/wfxey/blob/main/README.md)
