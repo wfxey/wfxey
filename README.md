@@ -28,8 +28,11 @@
 <details>
     <summary><b>Stats</b></summary>
     <br>
+    
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wfxey&show_icons=true&theme=dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wfxey&layout=compact&theme=dark)
+
 </details>
 
 ## Discord
