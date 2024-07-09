@@ -29,6 +29,7 @@
 
 ## Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wfxey)](https://github.com/wfxey)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wfxey)](https://github.com/wfxey)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -37,9 +38,6 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wfxey&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wfxey)](https://github.com/wfxey)
-
 </details>
 
 ## Discord
