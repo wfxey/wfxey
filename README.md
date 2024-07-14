@@ -35,6 +35,7 @@
 | Title | License | PyPi Link | Contributors | Install command |
 |--|--|--|--|--|
 | [binaryconvert](https://github.com/wfxey/binaryconvert) | [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/wfxey/binaryconvert#license) | [![PyPi](https://img.shields.io/badge/PyPi%20Link-FFFF00)](https://pypi.org/project/binaryconvert/) | <a href="https://github.com/wfxey/binaryconvert/blob/master/CONTRIBUTING.md"><img src="https://img.shields.io/github/contributors-anon/wfxey/binaryconvert" alt="Contributors badge" /></a> | ```pip install binaryconvert``` |
+| [diec (D&I)](https://github.com/D-I-Projects/diec) | [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/wfxey/diec#license) | [![PyPi](https://img.shields.io/badge/PyPi%20Link-FFFF00)](https://pypi.org/project/diec/) | <a href="https://github.com/wfxey/diec/blob/master/CONTRIBUTING.md"><img src="https://img.shields.io/github/contributors-anon/wfxey/diec" alt="Contributors badge" /></a> | ```pip install diec``` |
 
 ## Discord
 
