@@ -29,6 +29,23 @@
 </a>
 </details>
 
+## GitHub Projects
+
+| Title | License | Language | Contributors |
+|--|--|--|--|
+| [DiscordBotCreator (D&I)](https://github.com/D-I-Projects/DiscordBotCreator) | [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/D-I-Projects/DiscordBotCreator#license) | [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) | <a href="https://github.com/D-I-Projects/DiscordBotCreator/blob/master/CONTRIBUTING.md"><img src="https://img.shields.io/github/contributors-anon/D-I-Projects/DiscordBotCreator" alt="Contributors badge" /></a> |
+| [Discord Bot (D&I)](https://github.com/D-I-Projects/Discord-Bot) | ![License](https://img.shields.io/badge/License-none-blue) | [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) | <a href="https://github.com/D-I-Projects/Discord-Bot/blob/master/CONTRIBUTING.md"><img src="https://img.shields.io/github/contributors-anon/D-I-Projects/Discord-Bot" alt="Contributors badge" /></a> |
+| [ChatBox (D&I)](https://github.com/D-I-Projects/ChatBox) | ![License](https://img.shields.io/badge/License-none-blue) | [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) | <a href="https://github.com/D-I-Projects/ChatBox/blob/master/CONTRIBUTING.md"><img src="https://img.shields.io/github/contributors-anon/D-I-Projects/ChatBox" alt="Contributors badge" /></a> |
+| [Destor (D&I)](https://github.com/D-I-Projects/Destor) | [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/D-I-Projects/Destor#license) | [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) | <a href="https://github.com/D-I-Projects/Destor/blob/master/CONTRIBUTING.md"><img src="https://img.shields.io/github/contributors-anon/D-I-Projects/Destor" alt="Contributors badge" /></a> |
+| [website (D&I)](https://github.com/D-I-Projects/website) | [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/D-I-Projects/website#license) | [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) | <a href="https://github.com/D-I-Projects/website/blob/master/CONTRIBUTING.md"><img src="https://img.shields.io/github/contributors-anon/D-I-Projects/website" alt="Contributors badge" /></a> |
+| [Keylogger](https://github.com/wfxey/Keylogger) | [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/wfxey/Keylogger#license) | [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) | <a href="https://github.com/wfxey/Keylogger/blob/master/CONTRIBUTING.md"><img src="https://img.shields.io/github/contributors-anon/wfxey/Keylogger" alt="Contributors badge" /></a> |
+
+## PyPi Packages
+
+| Title | License | PyPi Link | Contributors | Install command |
+|--|--|--|--|--|
+| [binaryconvert](https://github.com/wfxey/binaryconvert) | [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/wfxey/binaryconvert#license) | [![PyPi](https://img.shields.io/badge/PyPi%20Link-FFFF00)](https://pypi.org/project/binaryconvert/) | <a href="https://github.com/wfxey/binaryconvert/blob/master/CONTRIBUTING.md"><img src="https://img.shields.io/github/contributors-anon/wfxey/binaryconvert" alt="Contributors badge" /></a> | ```pip install binaryconvert``` |
+
 ## Discord
 
 [![Discord Banner](https://discord.com/api/guilds/1230908371490570314/widget.png?style=banner2)](https://discord.gg/rfrMnA4XCc)
