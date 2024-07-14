@@ -21,7 +21,7 @@
 
 
 
-<details open>
+<details closed>
     <summary>Stats</summary>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
