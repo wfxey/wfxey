@@ -37,7 +37,7 @@
 |--|--|--|--|--|
 | [binaryconvert](https://github.com/wfxey/binaryconvert) | [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/wfxey/binaryconvert#license) | [![PyPi](https://img.shields.io/badge/PyPi%20Link-FFFF00)](https://pypi.org/project/binaryconvert/) | [![Downloads](https://static.pepy.tech/badge/binaryconvert)](https://pepy.tech/project/binaryconvert) | ```pip install binaryconvert``` |
 | [diec (D&I)](https://github.com/D-I-Projects/diec) | [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/D-I-Projects/diec#license) | [![PyPi](https://img.shields.io/badge/PyPi%20Link-FFFF00)](https://pypi.org/project/diec/) | [![Downloads](https://static.pepy.tech/badge/diec)](https://pepy.tech/project/diec) | ```pip install diec``` |
-| [githubinformation](https://github.com/wfxey/githubinformation) | [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/wfxey/githubinformation#license) | [![PyPi](https://img.shields.io/badge/PyPi%20Link-FFFF00)](https://pypi.org/project/githubinformation/) | ![PyPI - Downloads](https://img.shields.io/pypi/dm/githubinformation) | ```pip install githubinformation``` |
+| [githubinformation](https://github.com/wfxey/githubinformation) | [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/wfxey/githubinformation#license) | [![PyPi](https://img.shields.io/badge/PyPi%20Link-FFFF00)](https://pypi.org/project/githubinformation/) | [![Downloads](https://static.pepy.tech/badge/githubinformation)](https://pepy.tech/project/githubinformation) | ```pip install githubinformation``` |
 
 ## Discord
 
