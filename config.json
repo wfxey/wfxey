@@ -35,23 +35,11 @@
     "image_url": "https://www.w3schools.com/w3images/cinqueterre.jpg",
     "click_url": "https://www.w3schools.com/w3images/cinqueterre.jpg"
   },
-  "card7": {
-    "title": "Boats on the Water",
-    "description": "A scenic view of boats docked by the water.",
-    "image_url": "https://www.w3schools.com/w3images/boats.jpg",
-    "click_url": "https://www.w3schools.com/w3images/boats.jpg"
-  },
   "card8": {
     "title": "Snowy Landscape",
     "description": "A picturesque snowy scene in a serene setting.",
     "image_url": "https://www.w3schools.com/w3images/snow.jpg",
     "click_url": "https://www.w3schools.com/w3images/snow.jpg"
-  },
-  "card9": {
-    "title": "Architectural Marvel",
-    "description": "An impressive and modern architectural design.",
-    "image_url": "https://www.w3schools.com/w3images/architecture.jpg",
-    "click_url": "https://www.w3schools.com/w3images/architecture.jpg"
   },
   "card10": {
     "title": "Nature's Beauty",
