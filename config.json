@@ -1,92 +1,92 @@
 {
   "card1": {
-    "title": "Landscapes",
-    "description": "A beautiful Landscape somewhere.",
-    "image_url": "https://media.greatbigphotographyworld.com/wp-content/uploads/2014/11/Landscape-Photography-steps.jpg",
-    "click_url": "https://media.greatbigphotographyworld.com/wp-content/uploads/2014/11/Landscape-Photography-steps.jpg"
+    "title": "City Lights",
+    "description": "The vibrant lights of a bustling city at night.",
+    "image_url": "https://www.w3schools.com/w3images/lights.jpg",
+    "click_url": "https://www.w3schools.com/w3images/lights.jpg"
   },
   "card2": {
-    "title": "Keylogger",
-    "description": "The Banner of Keylogger from wfxey!",
-    "image_url": "https://repository-images.githubusercontent.com/803450856/c636a498-80a4-4349-ad51-6ae4af2a3e24",
-    "click_url": "https://repository-images.githubusercontent.com/803450856/c636a498-80a4-4349-ad51-6ae4af2a3e24"
+    "title": "Fjords",
+    "description": "The stunning beauty of Norwegian fjords.",
+    "image_url": "https://www.w3schools.com/w3images/fjords.jpg",
+    "click_url": "https://www.w3schools.com/w3images/fjords.jpg"
   },
   "card3": {
-    "title": "Urban Exploration",
-    "description": "Discover the hidden beauty of urban decay.",
-    "image_url": "https://images.unsplash.com/photo-1566740749-7b43878e84a6",
-    "click_url": "https://images.unsplash.com/photo-1566740749-7b43878e84a6"
+    "title": "Mountain Range",
+    "description": "Majestic mountains stretching as far as the eye can see.",
+    "image_url": "https://www.w3schools.com/w3images/mountains.jpg",
+    "click_url": "https://www.w3schools.com/w3images/mountains.jpg"
   },
   "card4": {
-    "title": "Mountain Trails",
-    "description": "Explore the rugged beauty of mountain trails.",
-    "image_url": "https://images.unsplash.com/photo-1506748686214e9df14e43d8b8d0",
-    "click_url": "https://images.unsplash.com/photo-1506748686214e9df14e43d8b8d0"
+    "title": "Forest Path",
+    "description": "A peaceful trail through a lush forest.",
+    "image_url": "https://www.w3schools.com/w3images/forest.jpg",
+    "click_url": "https://www.w3schools.com/w3images/forest.jpg"
   },
   "card5": {
-    "title": "Ocean Waves",
-    "description": "Feel the tranquility of ocean waves crashing on the shore.",
-    "image_url": "https://images.unsplash.com/photo-1506748686214-1d3b3e9f7fd4",
-    "click_url": "https://images.unsplash.com/photo-1506748686214-1d3b3e9f7fd4"
+    "title": "Rock Formation",
+    "description": "A unique and rugged rock formation.",
+    "image_url": "https://www.w3schools.com/w3images/rock.jpg",
+    "click_url": "https://www.w3schools.com/w3images/rock.jpg"
   },
   "card6": {
-    "title": "Ancient Ruins",
-    "description": "A glimpse into ancient civilizations.",
-    "image_url": "https://images.unsplash.com/photo-1483416119281-b2f0b7a0b24b",
-    "click_url": "https://images.unsplash.com/photo-1483416119281-b2f0b7a0b24b"
+    "title": "Cinque Terre",
+    "description": "The colorful coastal village of Cinque Terre.",
+    "image_url": "https://www.w3schools.com/w3images/cinqueterre.jpg",
+    "click_url": "https://www.w3schools.com/w3images/cinqueterre.jpg"
   },
   "card7": {
-    "title": "Starry Night",
-    "description": "Marvel at the beauty of the night sky.",
-    "image_url": "https://images.unsplash.com/photo-1516009400734-6b7cf82b825e",
-    "click_url": "https://images.unsplash.com/photo-1516009400734-6b7cf82b825e"
+    "title": "Boats on the Water",
+    "description": "A scenic view of boats docked by the water.",
+    "image_url": "https://www.w3schools.com/w3images/boats.jpg",
+    "click_url": "https://www.w3schools.com/w3images/boats.jpg"
   },
   "card8": {
-    "title": "Desert Dunes",
-    "description": "Experience the vastness of the desert landscape.",
-    "image_url": "https://images.unsplash.com/photo-1562208077-f7c4b62b14aa",
-    "click_url": "https://images.unsplash.com/photo-1562208077-f7c4b62b14aa"
+    "title": "Snowy Landscape",
+    "description": "A picturesque snowy scene in a serene setting.",
+    "image_url": "https://www.w3schools.com/w3images/snow.jpg",
+    "click_url": "https://www.w3schools.com/w3images/snow.jpg"
   },
   "card9": {
-    "title": "Autumn Forest",
-    "description": "Enjoy the vibrant colors of an autumn forest.",
-    "image_url": "https://images.unsplash.com/photo-1531254717615-8e4e4f5f8d3d",
-    "click_url": "https://images.unsplash.com/photo-1531254717615-8e4e4f5f8d3d"
+    "title": "Architectural Marvel",
+    "description": "An impressive and modern architectural design.",
+    "image_url": "https://www.w3schools.com/w3images/architecture.jpg",
+    "click_url": "https://www.w3schools.com/w3images/architecture.jpg"
   },
   "card10": {
-    "title": "Snowy Peaks",
-    "description": "Witness the majestic beauty of snow-capped mountains.",
-    "image_url": "https://images.unsplash.com/photo-1506748686214-09dd0b0dcb76",
-    "click_url": "https://images.unsplash.com/photo-1506748686214-09dd0b0dcb76"
+    "title": "Nature's Beauty",
+    "description": "A breathtaking view of nature in all its glory.",
+    "image_url": "https://www.w3schools.com/w3images/nature.jpg",
+    "click_url": "https://www.w3schools.com/w3images/nature.jpg"
   },
   "card11": {
-    "title": "City Lights",
-    "description": "The dazzling lights of a bustling city at night.",
-    "image_url": "https://images.unsplash.com/photo-1506748686214-2e6e3bb5c9a0",
-    "click_url": "https://images.unsplash.com/photo-1506748686214-2e6e3bb5c9a0"
+    "title": "Cityscape",
+    "description": "The skyline of a modern city illuminated at night.",
+    "image_url": "https://www.w3schools.com/w3images/lights.jpg",
+    "click_url": "https://www.w3schools.com/w3images/lights.jpg"
   },
   "card12": {
-    "title": "Quiet Lake",
-    "description": "Find peace by the tranquil waters of a quiet lake.",
-    "image_url": "https://images.unsplash.com/photo-1506748686214-9a8a7f9a1f88",
-    "click_url": "https://images.unsplash.com/photo-1506748686214-9a8a7f9a1f88"
+    "title": "Sunset over Fjords",
+    "description": "The fjords at sunset, with dramatic colors and reflections.",
+    "image_url": "https://www.w3schools.com/w3images/fjords.jpg",
+    "click_url": "https://www.w3schools.com/w3images/fjords.jpg"
   },
   "card13": {
-    "title": "Historic Monuments",
-    "description": "Explore the grandeur of historic monuments.",
-    "image_url": "https://images.unsplash.com/photo-1487345300778-823d7e3b3b1b",
-    "click_url": "https://images.unsplash.com/photo-1487345300778-823d7e3b3b1b"
+    "title": "Mountain Vista",
+    "description": "A panoramic view of towering mountains.",
+    "image_url": "https://www.w3schools.com/w3images/mountains.jpg",
+    "click_url": "https://www.w3schools.com/w3images/mountains.jpg"
   },
   "card14": {
-    "title": "Golden Fields",
-    "description": "The beauty of golden fields at harvest time.",
-    "image_url": "https://images.unsplash.com/photo-1461393395755-d88fef95c3d8",
-    "click_url": "https://images.unsplash.com/photo-1461393395755-d88fef95c3d8"
+    "title": "Forest Serenity",
+    "description": "A tranquil scene of a forest with dappled sunlight.",
+    "image_url": "https://www.w3schools.com/w3images/forest.jpg",
+    "click_url": "https://www.w3schools.com/w3images/forest.jpg"
   },
   "card15": {
-    "title": "Charming Villages",
-    "description": "Discover the quaint charm of small villages.",
-    "image_url": "https://images.unsplash.com/photo-1506748686214-f0a5f1dd894b",
-    "click_url": "https://images.unsplash.com/photo-1506748686214-f0a5f1dd894b"
+    "title": "Rocky Coastline",
+    "description": "Rugged rock formations along a scenic coastline.",
+    "image_url": "https://www.w3schools.com/w3images/rock.jpg",
+    "click_url": "https://www.w3schools.com/w3images/rock.jpg"
   }
 }
