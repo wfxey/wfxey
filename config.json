@@ -35,40 +35,22 @@
     "image_url": "https://www.w3schools.com/w3images/cinqueterre.jpg",
     "click_url": "https://www.w3schools.com/w3images/cinqueterre.jpg"
   },
-  "card8": {
+  "card7": {
     "title": "Snowy Landscape",
     "description": "A picturesque snowy scene in a serene setting.",
     "image_url": "https://www.w3schools.com/w3images/snow.jpg",
     "click_url": "https://www.w3schools.com/w3images/snow.jpg"
   },
-  "card10": {
+  "card8": {
     "title": "Nature's Beauty",
     "description": "A breathtaking view of nature in all its glory.",
     "image_url": "https://www.w3schools.com/w3images/nature.jpg",
     "click_url": "https://www.w3schools.com/w3images/nature.jpg"
   },
-  "card11": {
+  "card9": {
     "title": "Cityscape",
     "description": "The skyline of a modern city illuminated at night.",
     "image_url": "https://www.w3schools.com/w3images/lights.jpg",
     "click_url": "https://www.w3schools.com/w3images/lights.jpg"
-  },
-  "card12": {
-    "title": "Sunset over Fjords",
-    "description": "The fjords at sunset, with dramatic colors and reflections.",
-    "image_url": "https://www.w3schools.com/w3images/fjords.jpg",
-    "click_url": "https://www.w3schools.com/w3images/fjords.jpg"
-  },
-  "card13": {
-    "title": "Mountain Vista",
-    "description": "A panoramic view of towering mountains.",
-    "image_url": "https://www.w3schools.com/w3images/mountains.jpg",
-    "click_url": "https://www.w3schools.com/w3images/mountains.jpg"
-  },
-  "card14": {
-    "title": "Forest Serenity",
-    "description": "A tranquil scene of a forest with dappled sunlight.",
-    "image_url": "https://www.w3schools.com/w3images/forest.jpg",
-    "click_url": "https://www.w3schools.com/w3images/forest.jpg"
   }
 }
