@@ -70,11 +70,5 @@
     "description": "A tranquil scene of a forest with dappled sunlight.",
     "image_url": "https://www.w3schools.com/w3images/forest.jpg",
     "click_url": "https://www.w3schools.com/w3images/forest.jpg"
-  },
-  "card15": {
-    "title": "Rocky Coastline",
-    "description": "Rugged rock formations along a scenic coastline.",
-    "image_url": "https://www.w3schools.com/w3images/rock.jpg",
-    "click_url": "https://www.w3schools.com/w3images/rock.jpg"
   }
 }
