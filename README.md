@@ -3,9 +3,8 @@
 ## @wfxey
 
 
-[![Link to README.md](https://img.shields.io/badge/Link%20to%20README.md-8CA1AF?logo=readthedocs&logoColor=fff)](https://github.com/wfxey/wfxey/blob/main/README.md)
+[![Link to README.md](https://img.shields.io/badge/Link%20to%20README.md-8CA1AF?logo=readthedocs&logoColor=fff)](https://github.com/wfxey/wfxey/blob/main/README.md) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/rfrMnA4XCc)
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/rfrMnA4XCc)
 <a href="https://github.com/wfxey"> <img src="https://komarev.com/ghpvc/?username=wfxey&color=red" alt="GitHub Profile"> </a>
 
 ## GitHub Projects
