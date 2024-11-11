@@ -25,6 +25,6 @@
 | [BetterTkinter (Eldritchy)](https://github.com/Eldritchy/BetterTkinter) | [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/Eldritchy/BetterTkinter#license) | [![PyPi](https://img.shields.io/badge/PyPi%20Link-FFFF00)](https://pypi.org/project/diec/) | [![Downloads](https://static.pepy.tech/badge/bettertkinter)](https://pepy.tech/project/BetterTkinter) | ```pip install BetterTkinter``` |
 ## Discord
 
-[![Discord Banner](https://discord.com/api/guilds/1230908371490570314/widget.png?style=banner2)](https://discord.gg/rfrMnA4XCc)
+[![Discord Banner](https://discord.com/api/guilds/1303411768193974293/widget.png?style=banner3)](https://discord.gg/rfrMnA4XCc)
 
 </div>
