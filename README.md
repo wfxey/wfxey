@@ -23,8 +23,5 @@
 | [binaryconvert](https://github.com/wfxey/binaryconvert) | [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/wfxey/binaryconvert#license) | [![PyPi](https://img.shields.io/badge/PyPi%20Link-FFFF00)](https://pypi.org/project/binaryconvert/) | [![Downloads](https://static.pepy.tech/badge/binaryconvert)](https://pepy.tech/project/binaryconvert) | ```pip install binaryconvert``` |
 | [diec (Eldritchy)](https://github.com/D-I-Projects/diec) | [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/D-I-Projects/diec#license) | [![PyPi](https://img.shields.io/badge/PyPi%20Link-FFFF00)](https://pypi.org/project/BetterTkinter/) | [![Downloads](https://static.pepy.tech/badge/diec)](https://pepy.tech/project/diec) | ```pip install diec``` |
 | [BetterTkinter (Eldritchy)](https://github.com/Eldritchy/BetterTkinter) | [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/Eldritchy/BetterTkinter#license) | [![PyPi](https://img.shields.io/badge/PyPi%20Link-FFFF00)](https://pypi.org/project/diec/) | [![Downloads](https://static.pepy.tech/badge/bettertkinter)](https://pepy.tech/project/BetterTkinter) | ```pip install BetterTkinter``` |
-## Discord
-
-[![Discord Banner](https://discord.com/api/guilds/1303411768193974293/widget.png?style=banner2)](https://discord.gg/rfrMnA4XCc)
 
 </div>
