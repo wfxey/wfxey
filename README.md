@@ -14,7 +14,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wfxey&show_icons=true&theme=radical)  
 
----
 
 ## 📂 GitHub Projects
 
@@ -35,5 +34,3 @@
 | [**diec**](https://github.com/D-I-Projects/diec) | [MIT](https://img.shields.io/badge/License-MIT-blue) | [PyPi Link](https://pypi.org/project/diec/) | ![Downloads](https://static.pepy.tech/badge/diec) | `pip install diec` |
 | [**BetterTkinter**](https://github.com/Eldritchy/BetterTkinter) | [MIT](https://img.shields.io/badge/License-MIT-blue) | [PyPi Link](https://pypi.org/project/BetterTkinter/) | ![Downloads](https://static.pepy.tech/badge/bettertkinter) | `pip install BetterTkinter` |
 | [**InsightLog**](https://github.com/Eldritchy/InsightLog) | [MIT](https://img.shields.io/badge/License-MIT-blue) | [PyPi Link](https://pypi.org/project/InsightLog/) | ![Downloads](https://static.pepy.tech/badge/InsightLog) | `pip install InsightLog` |
-
----
