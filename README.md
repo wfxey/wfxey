@@ -19,9 +19,9 @@
 
 | **Project**                          | **License** | **Language** | **Contributors** |
 |--------------------------------------|-------------|--------------|------------------|
-| [**Discord Bot (D&I)**](https://github.com/D-I-Projects/Discord-Bot) | None        | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff) | ![Contributors](https://img.shields.io/github/contributors-anon/D-I-Projects/Discord-Bot) |
+| [**Discord Bot (D&I)**](https://github.com/D-I-Projects/Discord-Bot) | ![MIT](https://img.shields.io/badge/License-MIT-blue)       | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff) | ![Contributors](https://img.shields.io/github/contributors-anon/D-I-Projects/Discord-Bot) |
 | [**Destor (D&I)**](https://github.com/D-I-Projects/Destor) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff) | ![Contributors](https://img.shields.io/github/contributors-anon/D-I-Projects/Destor) |
-| [**diec-test-gui (D&I)**](https://github.com/Eldritchy/diec-test-gui) | [MIT](https://img.shields.io/badge/License-MIT-blue) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff) | ![Contributors](https://img.shields.io/github/contributors-anon/Eldritchy/diec-test-gui) |
+| [**diec-test-gui (D&I)**](https://github.com/Eldritchy/diec-test-gui) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff) | ![Contributors](https://img.shields.io/github/contributors-anon/Eldritchy/diec-test-gui) |
 | [**Keylogger**](https://github.com/wfxey/Keylogger) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff) | ![Contributors](https://img.shields.io/github/contributors-anon/wfxey/Keylogger) |
 
 ---
