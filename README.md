@@ -19,7 +19,6 @@
 | [**diec-test-gui (D&I)**](https://github.com/Eldritchy/diec-test-gui) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff) | ![Contributors](https://img.shields.io/github/contributors-anon/Eldritchy/diec-test-gui) |
 | [**Keylogger**](https://github.com/wfxey/Keylogger) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff) | ![Contributors](https://img.shields.io/github/contributors-anon/wfxey/Keylogger) |
 
----
 
 ## 📦 PyPi Packages
 
