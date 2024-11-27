@@ -20,9 +20,9 @@
 | **Project**                          | **License** | **Language** | **Contributors** |
 |--------------------------------------|-------------|--------------|------------------|
 | [**Discord Bot (D&I)**](https://github.com/D-I-Projects/Discord-Bot) | None        | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff) | ![Contributors](https://img.shields.io/github/contributors-anon/D-I-Projects/Discord-Bot) |
-| [**Destor (D&I)**](https://github.com/D-I-Projects/Destor) | [MIT](https://img.shields.io/badge/License-MIT-blue) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff) | ![Contributors](https://img.shields.io/github/contributors-anon/D-I-Projects/Destor) |
+| [**Destor (D&I)**](https://github.com/D-I-Projects/Destor) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff) | ![Contributors](https://img.shields.io/github/contributors-anon/D-I-Projects/Destor) |
 | [**diec-test-gui (D&I)**](https://github.com/Eldritchy/diec-test-gui) | [MIT](https://img.shields.io/badge/License-MIT-blue) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff) | ![Contributors](https://img.shields.io/github/contributors-anon/Eldritchy/diec-test-gui) |
-| [**Keylogger**](https://github.com/wfxey/Keylogger) | [MIT](https://img.shields.io/badge/License-MIT-blue) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff) | ![Contributors](https://img.shields.io/github/contributors-anon/wfxey/Keylogger) |
+| [**Keylogger**](https://github.com/wfxey/Keylogger) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff) | ![Contributors](https://img.shields.io/github/contributors-anon/wfxey/Keylogger) |
 
 ---
 
@@ -30,7 +30,7 @@
 
 | **Package** | **License** | **PyPi** | **Downloads** | **Install Command**                |
 |-------------|-------------|----------|---------------|-------------------------------------|
-| [**binaryconvert**](https://github.com/wfxey/binaryconvert) | [MIT](https://img.shields.io/badge/License-MIT-blue) | [PyPi Link](https://pypi.org/project/binaryconvert/) | ![Downloads](https://static.pepy.tech/badge/binaryconvert) | `pip install binaryconvert` |
-| [**diec**](https://github.com/D-I-Projects/diec) | [MIT](https://img.shields.io/badge/License-MIT-blue) | [PyPi Link](https://pypi.org/project/diec/) | ![Downloads](https://static.pepy.tech/badge/diec) | `pip install diec` |
-| [**BetterTkinter**](https://github.com/Eldritchy/BetterTkinter) | [MIT](https://img.shields.io/badge/License-MIT-blue) | [PyPi Link](https://pypi.org/project/BetterTkinter/) | ![Downloads](https://static.pepy.tech/badge/bettertkinter) | `pip install BetterTkinter` |
-| [**InsightLog**](https://github.com/Eldritchy/InsightLog) | [MIT](https://img.shields.io/badge/License-MIT-blue) | [PyPi Link](https://pypi.org/project/InsightLog/) | ![Downloads](https://static.pepy.tech/badge/InsightLog) | `pip install InsightLog` |
+| [**binaryconvert**](https://github.com/wfxey/binaryconvert) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | ![PyPi Link](https://pypi.org/project/binaryconvert/) | ![Downloads](https://static.pepy.tech/badge/binaryconvert) | `pip install binaryconvert` |
+| [**diec**](https://github.com/D-I-Projects/diec) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | ![PyPi Link](https://pypi.org/project/diec/) | ![Downloads](https://static.pepy.tech/badge/diec) | `pip install diec` |
+| [**BetterTkinter**](https://github.com/Eldritchy/BetterTkinter) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | ![PyPi Link](https://pypi.org/project/BetterTkinter/) | ![Downloads](https://static.pepy.tech/badge/bettertkinter) | `pip install BetterTkinter` |
+| [**InsightLog**](https://github.com/Eldritchy/InsightLog) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | ![PyPi Link](https://pypi.org/project/InsightLog/) | ![Downloads](https://static.pepy.tech/badge/InsightLog) | `pip install InsightLog` |
