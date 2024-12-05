@@ -8,15 +8,21 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/rfrMnA4XCc)  
 ![Profile Views](https://komarev.com/ghpvc/?username=wfxey&color=red&style=flat-square)
 
-
 ## 📂 GitHub Projects
 
-| **Project**                          | **License** | **Language** | **Contributors** |
-|--------------------------------------|-------------|--------------|------------------|
-| [**Discord Bot (D&I)**](https://github.com/D-I-Projects/Discord-Bot) | ![MIT](https://img.shields.io/badge/License-MIT-blue)       | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff) | ![Contributors](https://img.shields.io/github/contributors-anon/D-I-Projects/Discord-Bot) |
-| [**Destor (D&I)**](https://github.com/D-I-Projects/Destor) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff) | ![Contributors](https://img.shields.io/github/contributors-anon/D-I-Projects/Destor) |
-| [**diec-test-gui (D&I)**](https://github.com/Eldritchy/diec-test-gui) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff) | ![Contributors](https://img.shields.io/github/contributors-anon/Eldritchy/diec-test-gui) |
-| [**Keylogger**](https://github.com/wfxey/Keylogger) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff) | ![Contributors](https://img.shields.io/github/contributors-anon/wfxey/Keylogger) |
+| **Project**                          | **License**         | **Language**  | **Contributors** |
+|--------------------------------------|---------------------|---------------|------------------|
+| [**Connecto**](https://github.com/Eldritchy/Connecto)       | Other             | Swift         | 1                |
+| [**InsightLog**](https://github.com/Eldritchy/InsightLog)   | Other             | Python        | 1                |
+| [**OpenAlways**](https://github.com/Eldritchy/OpenAlways)   | Private           | Python        | 1                |
+| [**diec**](https://github.com/Eldritchy/diec)               | MIT License       | Python        | 1                |
+| [**ReturnTime**](https://github.com/Eldritchy/ReturnTime)   | MIT License       | Python        | 1                |
+| [**BetterTkinter**](https://github.com/Eldritchy/BetterTkinter) | MIT License    | Python        | 1                |
+| [**BetterTkinterDocs**](https://github.com/Eldritchy/BetterTkinterDocs) | Public | HTML | 1 |
+| [**ChatBox**](https://github.com/Eldritchy/ChatBox)         | Private           | Python        | 1                |
+| [**diec-test-gui**](https://github.com/Eldritchy/diec-test-gui) | MIT License    | Python        | 1                |
+
+</div>
 
 
 ## 📦 PyPi Packages
