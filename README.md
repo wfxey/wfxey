@@ -10,20 +10,17 @@
 
 ## 📂 GitHub Projects
 
-| **Project**                          | **License**         | **Language**  | **Contributors** |
-|--------------------------------------|---------------------|---------------|------------------|
-| [**Connecto**](https://github.com/Eldritchy/Connecto)       | Other             | Swift         | 1                |
-| [**InsightLog**](https://github.com/Eldritchy/InsightLog)   | Other             | Python        | 1                |
-| [**OpenAlways**](https://github.com/Eldritchy/OpenAlways)   | Private           | Python        | 1                |
-| [**diec**](https://github.com/Eldritchy/diec)               | MIT License       | Python        | 1                |
-| [**ReturnTime**](https://github.com/Eldritchy/ReturnTime)   | MIT License       | Python        | 1                |
-| [**BetterTkinter**](https://github.com/Eldritchy/BetterTkinter) | MIT License    | Python        | 1                |
-| [**BetterTkinterDocs**](https://github.com/Eldritchy/BetterTkinterDocs) | Public | HTML | 1 |
-| [**ChatBox**](https://github.com/Eldritchy/ChatBox)         | Private           | Python        | 1                |
-| [**diec-test-gui**](https://github.com/Eldritchy/diec-test-gui) | MIT License    | Python        | 1                |
-
-</div>
-
+| **Project**                          | **License**         | **Language**  | **Contributors**                                                                                           |
+|--------------------------------------|---------------------|---------------|-----------------------------------------------------------------------------------------------------------|
+| [**Connecto**](https://github.com/Eldritchy/Connecto)       | Other             | Swift         | ![Contributors](https://img.shields.io/github/contributors-anon/Eldritchy/Connecto)                      |
+| [**InsightLog**](https://github.com/Eldritchy/InsightLog)   | Other             | Python        | ![Contributors](https://img.shields.io/github/contributors-anon/Eldritchy/InsightLog)                    |
+| [**OpenAlways**](https://github.com/Eldritchy/OpenAlways)   | Private           | Python        | ![Contributors](https://img.shields.io/github/contributors-anon/Eldritchy/OpenAlways)                    |
+| [**diec**](https://github.com/Eldritchy/diec)               | MIT License       | Python        | ![Contributors](https://img.shields.io/github/contributors-anon/Eldritchy/diec)                          |
+| [**ReturnTime**](https://github.com/Eldritchy/ReturnTime)   | MIT License       | Python        | ![Contributors](https://img.shields.io/github/contributors-anon/Eldritchy/ReturnTime)                    |
+| [**BetterTkinter**](https://github.com/Eldritchy/BetterTkinter) | MIT License    | Python        | ![Contributors](https://img.shields.io/github/contributors-anon/Eldritchy/BetterTkinter)                 |
+| [**BetterTkinterDocs**](https://github.com/Eldritchy/BetterTkinterDocs) | Public | HTML | ![Contributors](https://img.shields.io/github/contributors-anon/Eldritchy/BetterTkinterDocs)             |
+| [**ChatBox**](https://github.com/Eldritchy/ChatBox)         | Private           | Python        | ![Contributors](https://img.shields.io/github/contributors-anon/Eldritchy/ChatBox)                       |
+| [**diec-test-gui**](https://github.com/Eldritchy/diec-test-gui) | MIT License    | Python        | ![Contributors](https://img.shields.io/github/contributors-anon/Eldritchy/diec-test-gui)                 |
 
 ## 📦 PyPi Packages
 
