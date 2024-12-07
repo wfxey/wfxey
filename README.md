@@ -31,7 +31,7 @@
 
 ---
 
-## **Technologies**
+## **Languages**
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
