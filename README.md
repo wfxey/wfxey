@@ -31,7 +31,7 @@
 
 ---
 
-## 💻 Technologies & Tools I worked/work
+## 💻 Technologies & Tools I worked/work with
 
 ### Programming Languages
 
