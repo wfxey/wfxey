@@ -32,8 +32,71 @@
 ---
 
 ## Technologies & Tools I Work With
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)  ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  ![Jinja](https://img.shields.io/badge/Jinja-000000?style=flat&logo=flask&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  ![Apache2](https://img.shields.io/badge/Apache2-D22128?style=flat&logo=apache&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
 
+### Programming Languages
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"> | **Python**  | Versatile and powerful programming language          |
+| --- | --- | ---------------------------------------------------- |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Swift_logo.svg" width="50" height="50">  | **Swift**   | Fast, modern programming language for iOS and macOS   |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/JavaScript-logo.png" width="50" height="50"> | **JavaScript** | The most popular language for web development         |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.svg" width="50" height="50">  | **C#**       | A modern, object-oriented language for .NET          |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50"> | **Node.js** | JavaScript runtime for building server-side apps     |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/TypeScript_logo_2020.svg" width="50" height="50"> | **TypeScript** | A superset of JavaScript that adds static types      |
+
+### Frontend Technologies
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50"> | **React**   | A JavaScript library for building user interfaces    |
+| --- | --- | ---------------------------------------------------- |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/CSS3_logo.svg" width="50" height="50">   | **CSS**     | Style sheet language for creating attractive web designs |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/HTML5_logo_and_wordmark.svg" width="50" height="50"> | **HTML**    | The standard language for creating web pages          |
+
+### Backend Technologies
+| <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Flask_logo.svg" width="50" height="50"> | **Flask**   | A lightweight Python framework for web development   |
+| --- | --- | ---------------------------------------------------- |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Jinja_logo.svg" width="50" height="50">  | **Jinja**   | Templating engine for Python, used with Flask         |
+
+### Databases
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/SQL_Logo.svg" width="50" height="50">    | **SQL**     | Structured Query Language for managing relational databases |
+| --- | --- | ------------------------------------------------------ |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="50" height="50"> | **SQLite**  | Lightweight, serverless database for local storage     |
+
+### Caching & Memory
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Memcached_logo.svg" width="50" height="50"> | **Memcached** | High-performance memory caching system               |
+
+### DevOps & Containers
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Docker_logo.png" width="50" height="50"> | **Docker**   | A tool for creating, deploying, and running applications in containers |
+| --- | --- | ---------------------------------------------------- |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Apache_HTTP_server_logo.svg" width="50" height="50"> | **Apache2**  | Popular open-source web server                        |
+
+### Version Control
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Git-logo.svg" width="50" height="50"> | **Git**     | Distributed version control system for source code management |
+| --- | --- | ---------------------------------------------------- |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" height="50"> | **GitHub**  | Platform for hosting and collaborating on Git repositories |
+
+### Operating Systems
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Windows_11_logo_2021.svg" width="50" height="50"> | **Windows 11**  | The latest version of the Windows operating system          |
+| --- | --- | ---------------------------------------------------- |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Windows_10_logo_2015.svg" width="50" height="50"> | **Windows 10**  | The previous version of the Windows operating system         |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Windows_8_Logo.svg" width="50" height="50"> | **Windows 8**   | A touch-centric version of Windows released in 2012          |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Windows_8.1_logo_2013.svg" width="50" height="50"> | **Windows 8.1** | An update to Windows 8 that improved usability and performance |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Windows_7_logo.svg" width="50" height="50"> | **Windows 7**   | The popular Windows version known for its stability and performance |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Ubuntu_logo_2023.svg" width="50" height="50"> | **Ubuntu** | Popular Linux distribution, known for its ease of use        |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Lubuntu-logo.svg" width="50" height="50"> | **Lubuntu** | A lightweight, user-friendly Ubuntu variant                    |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Linux_Mint_logo.svg" width="50" height="50"> | **Linux Mint** | A popular Linux distro based on Ubuntu, known for its simplicity |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Debian_logo.svg" width="50" height="50"> | **Debian**  | A stable and flexible Linux distribution                     |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Raspberry_Pi_OS_logo.svg" width="50" height="50"> | **Raspberry Pi OS Lite** | A lightweight version of Raspberry Pi OS                    |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/MacOS_Lion_Logo.svg" width="50" height="50"> | **MacOS Lion**  | The 2011 release of macOS, known for its sleek design         |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/MacOS_Mountain_Lion_logo.svg" width="50" height="50"> | **MacOS Mountain Lion**  | The 2012 release, adding many new features like iMessages     |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/MacOS_Mavericks_logo.svg" width="50" height="50"> | **MacOS Mavericks**  | The 2013 release, known for its focus on performance and battery life |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/MacOS_Yosemite_logo.svg" width="50" height="50"> | **MacOS Yosemite**  | The 2014 release with a redesigned UI, influenced by iOS       |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/MacOS_El_Capitan_logo.svg" width="50" height="50"> | **MacOS El Capitan**  | The 2015 release, focused on stability and performance         |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/MacOS_Sierra_logo.svg" width="50" height="50"> | **MacOS Sierra**  | The 2016 release, introducing Siri and other enhancements      |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/MacOS_High_Sierra_logo.svg" width="50" height="50"> | **MacOS High Sierra**  | The 2017 release, known for its improvements to performance and security |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/MacOS_Mojave_logo.svg" width="50" height="50"> | **MacOS Mojave**  | The 2018 release, introducing Dark Mode and other UI enhancements |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/MacOS_Catalina_logo.svg" width="50" height="50"> | **MacOS Catalina**  | The 2019 release, bringing iPad apps to the Mac and eliminating 32-bit apps |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/MacOS_Big_Sur_logo.svg" width="50" height="50"> | **MacOS Big Sur**  | The 2020 release, with a major redesign and Apple Silicon support |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/MacOS_Monterey_logo.svg" width="50" height="50"> | **MacOS Monterey**  | The 2021 release, with enhancements for M1 Macs and features like Universal Control |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/MacOS_Ventura_logo.svg" width="50" height="50"> | **MacOS Ventura**  | The 2022 release, bringing Stage Manager and other productivity features |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/MacOS_Sonoma_logo.svg" width="50" height="50"> | **MacOS Sonoma**  | The macOS release as of 2023                          |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/MacOS_Sonoma_logo.svg" width="50" height="50"> | **MacOS Sequoia**  | The macOS release as of 2024                          |
 
 
 </div>
