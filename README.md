@@ -81,24 +81,24 @@
 ---
 
 ### Operating Systems
-| <img src="https://github.com/user-attachments/assets/c6ad9957-ad8d-420e-94ad-a9af999cedb2" width="50" height="50"> | **Windows 11**  | The latest version of the Windows operating system          |
+| <img src="https://github.com/user-attachments/assets/c6ad9957-ad8d-420e-94ad-a9af999cedb2" width="50" height="50"> | **Windows 11**  | The latest version of the Windows operating system (Currently using)|
 | --- | --- | ---------------------------------------------------- |
 | <img src="https://github.com/user-attachments/assets/dc5961cf-af2b-4b7f-9e69-bf01f24d5b95" width="50" height="50"> | **Windows 10**  | The previous version of the Windows operating system         |
 | <img src="https://github.com/user-attachments/assets/dc5961cf-af2b-4b7f-9e69-bf01f24d5b95" width="50" height="50"> | **Windows 8**   | A touch-centric version of Windows released in 2012          |
 | <img src="https://upload.wikimedia.org/wikipedia/de/thumb/c/c2/Microsoft_Windows_7_logo.svg/2296px-Microsoft_Windows_7_logo.svg.png" width="50" height="50"> | **Windows 7**   | The popular Windows version known for its stability and performance |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" width="50" height="50"> | **Ubuntu** | Popular Linux distribution, known for its ease of use        |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" width="50" height="50"> | **Ubuntu** | Popular Linux distribution, known for its ease of use (Currently using)|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Lubuntu_logo_only.svg" width="50" height="50"> | **Lubuntu** | A lightweight, user-friendly Ubuntu variant                    |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/2048px-Linux_Mint_logo_without_wordmark.svg.png" width="50" height="50"> | **Linux Mint** | A popular Linux distro based on Ubuntu, known for its simplicity |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/2048px-Linux_Mint_logo_without_wordmark.svg.png" width="50" height="50"> | **Linux Mint** | A popular Linux distro based on Ubuntu, known for its simplicity (Currently using)|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" width="50" height="50"> | **Debian**  | A stable and flexible Linux distribution                     |
-| <img src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/570px-Raspberry_Pi_Logo.svg.png" width="50" height="50"> | **Raspberry Pi OS Lite** | A lightweight version of Raspberry Pi OS                    |
+| <img src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/570px-Raspberry_Pi_Logo.svg.png" width="50" height="50"> | **Raspberry Pi OS Lite** | A lightweight version of Raspberry Pi OS (Currently using)|
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/83/99/67/839967c5-d5f8-9c65-44bd-ca7cc3f90a97/ProductPageIcon.png/1200x630bb.png" width="50" height="50"> | **MacOS Sierra**  | The 2016 release, introducing Siri and other enhancements      |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/fc/b0/de/fcb0de66-45cb-f7c4-c842-84e7716ad093/ProductPageIcon.png/1200x630bb.png" width="50" height="50"> | **MacOS High Sierra**  | The 2017 release, known for its improvements to performance and security |
 | <img src="https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111930_mojave-roundel-240.png" width="50" height="50"> | **MacOS Mojave**  | The 2018 release, introducing Dark Mode and other UI enhancements |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/12/d7/a9/12d7a95a-b8f0-edb1-2f5d-a207f17c561f/ProductPageIcon.png/1200x630bb.png" width="50" height="50"> | **MacOS Catalina**  | The 2019 release, bringing iPad apps to the Mac and eliminating 32-bit apps |
-| <img src="https://cdsassets.apple.com/content/services/pub/image?productid=300247&size=240x240" width="50" height="50"> | **MacOS Big Sur**  | The 2020 release, with a major redesign and Apple Silicon support |
+| <img src="https://cdsassets.apple.com/content/services/pub/image?productid=300247&size=240x240" width="50" height="50"> | **MacOS Big Sur**  | The 2020 release, with a major redesign and Apple Silicon support (Currently using) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/f3/c1/2ff3c1b6-f1d8-92ba-ce9e-2e0356bc705e/ProductPageIcon.png/1200x630bb.png" width="50" height="50"> | **MacOS Monterey**  | The 2021 release, with enhancements for M1 Macs |
 | <img src="https://digimigo.com/storage/2023/10/macos-sonoma-2023-09-26.png.webp" width="50" height="50"> | **MacOS Sonoma**  | The macOS release as of 2023                          |
-| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/dc/14/5cdc1475-36a2-5992-761f-2bd3027e077e/ProductPageIcon.png/230x0w.webp" width="50" height="50"> | **MacOS Sequoia**  | The macOS release as of 2024    
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/dc/14/5cdc1475-36a2-5992-761f-2bd3027e077e/ProductPageIcon.png/230x0w.webp" width="50" height="50"> | **MacOS Sequoia**  | The macOS release as of 2024 (Currently using)    
 
 ---
 
