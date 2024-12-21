@@ -6,6 +6,7 @@
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github&style=flat-square)](https://github.com/wfxey)  
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/7TcrSp39Kj)  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L117PNKO)
 [![Profile Views](https://komarev.com/ghpvc/?username=wfxey&color=red&style=flat-square)](https://github.com/wfxey)
 
 ---
