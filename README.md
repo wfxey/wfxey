@@ -30,5 +30,5 @@
 | [**BetterTkinter**](https://github.com/VelisCore/BetterTkinter) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | [![PyPi](https://img.shields.io/badge/PyPi%20Link-FFFF00)](https://pypi.org/project/BetterTkinter/) | [![Downloads](https://static.pepy.tech/badge/bettertkinter)](https://pepy.tech/projects/BetterTkinter) |
 | [**InsightLog**](https://github.com/VelisCore/InsightLog) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | [![PyPi](https://img.shields.io/badge/PyPi%20Link-FFFF00)](https://pypi.org/project/InsightLog/) | [![Downloads](https://static.pepy.tech/badge/InsightLog)](https://pepy.tech/projects/InsightLog) |
 ---
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L117PNKO)
+<a href='https://ko-fi.com/L3L117PNKO' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
