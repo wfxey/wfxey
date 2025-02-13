@@ -10,25 +10,9 @@
 
 ---
 
-## 📁 Projects
-
-| **Name** | **License** | **Language** | **Contributors** |
-|----------|-------------|--------------|-------------------|
-| [**Connecto**](https://github.com/VelisCore/Connecto) | ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg) | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) | ![Contributors](https://img.shields.io/github/contributors-anon/VelisCore/Connecto) |
-| [**InsightLog**](https://github.com/VelisCore/InsightLog) | ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg) | ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) | ![Contributors](https://img.shields.io/github/contributors-anon/VelisCore/InsightLog) |
-| [**diec**](https://github.com/VelisCore/diec) | ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg) | ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) | ![Contributors](https://img.shields.io/github/contributors-anon/VelisCore/diec) |
-| [**ReturnTime**](https://github.com/VelisCore/ReturnTime) | ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg) | ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) | ![Contributors](https://img.shields.io/github/contributors-anon/VelisCore/ReturnTime) |
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wfxey)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 📦 Packages
-
-| **Name** | **License** | **PyPi** | **Downloads** |
-|----------|-------------|----------|---------------|
-| [**binaryconvert**](https://github.com/wfxey/binaryconvert) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | [![PyPi](https://img.shields.io/badge/PyPi%20Link-FFFF00)](https://pypi.org/project/binaryconvert/) | [![Downloads](https://static.pepy.tech/badge/binaryconvert)](https://pepy.tech/projects/binaryconvert) |
-| [**diec**](https://github.com/VelisCore/diec) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | [![PyPi](https://img.shields.io/badge/PyPi%20Link-FFFF00)](https://pypi.org/project/diec/) | [![Downloads](https://static.pepy.tech/badge/diec)](https://pepy.tech/projects/diec) |
-| [**BetterTkinter**](https://github.com/VelisCore/BetterTkinter) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | [![PyPi](https://img.shields.io/badge/PyPi%20Link-FFFF00)](https://pypi.org/project/BetterTkinter/) | [![Downloads](https://static.pepy.tech/badge/bettertkinter)](https://pepy.tech/projects/BetterTkinter) |
-| [**InsightLog**](https://github.com/VelisCore/InsightLog) | ![MIT](https://img.shields.io/badge/License-MIT-blue) | [![PyPi](https://img.shields.io/badge/PyPi%20Link-FFFF00)](https://pypi.org/project/InsightLog/) | [![Downloads](https://static.pepy.tech/badge/InsightLog)](https://pepy.tech/projects/InsightLog) |
----
 <a href='https://ko-fi.com/L3L117PNKO' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
