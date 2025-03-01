@@ -19,7 +19,7 @@
     <tbody>
       <tr align="center">
         <td colspan="2">
-          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=26&pause=1000&center=true&vCenter=true&&width=435&lines=It's+a+me...Pl%C3%ADnio!;%F0%9F%91%8B+Hello%2C+World!" alt="Typing SVG" /></a>
+          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=26&pause=1000&center=true&vCenter=true&&width=435&lines=It's+a+me...wfxey!;%F0%9F%91%8B+Hello%2C+World!" alt="Typing SVG" /></a>
           <br>
           <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           <img width="12" />
