@@ -12,7 +12,7 @@
   <table>
     <thead>
       <tr>
-        <th align="left">⚙️ LeDragoX</th>
+        <th align="left">⚙️ wfxey</th>
         <th align="right">│⠀⠀🖥️⠀⠀│⠀⠀🛠️⠀⠀│⠀⠀💻⠀⠀│</th>
       </tr>
     </thead>
