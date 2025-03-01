@@ -5,8 +5,7 @@
 **Exploring code, building solutions, and contributing to the developer community.**
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github&style=flat-square)](https://github.com/wfxey)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/mrgg7vuF48)  
-[![Profile Views](https://komarev.com/ghpvc/?username=wfxey&color=red&style=flat-square)](https://github.com/wfxey)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/mrgg7vuF48)
 
 <div align="center">
   <table>
@@ -53,7 +52,7 @@
           <a href="#"><img src="https://img.shields.io/badge/Samsung-990PRO_2TB-1428A0?style=flat&logo=samsung&logoColor=white"></a>
           <a href="#"><img src="https://img.shields.io/badge/Samsung-500GB_SSD-1428A0?style=flat&logo=samsung&logoColor=white"></a>
           <br>
-          <img src="https://komarev.com/ghpvc/?username=LeDragoX&label=Profile_Views&color=blueviolet&style=flat" alt="LeDragoX" />
+          <img src="https://komarev.com/ghpvc/?username=wfxey&label=Profile_Views&color=blueviolet&style=flat" alt="wfxey" />
         </td>
       </tr>
     </tbody>
