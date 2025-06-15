@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "description": "Full article text about mountain adventures. Hiking, climbing, and breathtaking views.",
+    "tags": ["Travel", "Adventure", "Mountains"]
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "description": "Detailed article on living a healthy lifestyle including diet, exercise, and mindfulness.",
+    "tags": ["Health", "Lifestyle", "Wellness"]
+  }
+]
