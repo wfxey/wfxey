@@ -1,26 +1,18 @@
 [
   {
-    "id": "6F9619FF-8B86-D011-B42D-00CF4FC964FF",
-    "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2023/06/05/iOS17-1024x576.jpg",
-    "date": "2024-12-26",
-    "title": "iOS 17 Features You Need to Know",
-    "description": "Discover the latest updates and features of iOS 17 that will enhance your iPhone experience.",
-    "tags": ["iOS 17", "Apple", "Tech News"]
+    "id": "1",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "date": "2025-06-14",
+    "title": "Exploring the Mountains",
+    "description": "Brief intro to mountain adventures",
+    "tags": ["Travel", "Adventure"]
   },
   {
-    "id": "7E45C3B1-AF8F-4D7E-B6C4-9D8F7B3E6221",
-    "imageUrl": "https://images.unsplash.com/photo-1519608487953-e999c86e7455",
-    "date": "2024-12-20",
-    "title": "Top 10 Destinations for 2024",
-    "description": "Explore the most breathtaking travel destinations to visit in the upcoming year.",
-    "tags": ["Travel", "Destinations", "Adventure"]
-  },
-  {
-    "id": "CA8E89C3-8A92-4F4E-9A1B-F9673E437EAB",
-    "imageUrl": "https://images.unsplash.com/photo-1598970434795-0c54fe7c0642",
-    "date": "2024-12-22",
-    "title": "5 Simple Tips for a Healthier Life",
-    "description": "Implement these small changes to improve your physical and mental health.",
-    "tags": ["Health", "Wellness", "Lifestyle"]
+    "id": "2",
+    "imageUrl": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "date": "2025-06-10",
+    "title": "Healthy Living Tips",
+    "description": "Quick tips to stay healthy and fit",
+    "tags": ["Health", "Lifestyle"]
   }
 ]
